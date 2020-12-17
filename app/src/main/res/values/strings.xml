@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Prachi\'s todo App</string>
+    <string name="add_an_item_here" translatable="false">Add an item here!</string>
+</resources>
